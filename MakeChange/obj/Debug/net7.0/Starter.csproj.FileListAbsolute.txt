@@ -1,0 +1,14 @@
+/Users/cjr11/Documents/dev/cSharp/MakeChange/bin/Debug/net7.0/Starter
+/Users/cjr11/Documents/dev/cSharp/MakeChange/bin/Debug/net7.0/Starter.deps.json
+/Users/cjr11/Documents/dev/cSharp/MakeChange/bin/Debug/net7.0/Starter.runtimeconfig.json
+/Users/cjr11/Documents/dev/cSharp/MakeChange/bin/Debug/net7.0/Starter.dll
+/Users/cjr11/Documents/dev/cSharp/MakeChange/bin/Debug/net7.0/Starter.pdb
+/Users/cjr11/Documents/dev/cSharp/MakeChange/obj/Debug/net7.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cjr11/Documents/dev/cSharp/MakeChange/obj/Debug/net7.0/Starter.AssemblyInfoInputs.cache
+/Users/cjr11/Documents/dev/cSharp/MakeChange/obj/Debug/net7.0/Starter.AssemblyInfo.cs
+/Users/cjr11/Documents/dev/cSharp/MakeChange/obj/Debug/net7.0/Starter.csproj.CoreCompileInputs.cache
+/Users/cjr11/Documents/dev/cSharp/MakeChange/obj/Debug/net7.0/Starter.dll
+/Users/cjr11/Documents/dev/cSharp/MakeChange/obj/Debug/net7.0/refint/Starter.dll
+/Users/cjr11/Documents/dev/cSharp/MakeChange/obj/Debug/net7.0/Starter.pdb
+/Users/cjr11/Documents/dev/cSharp/MakeChange/obj/Debug/net7.0/Starter.genruntimeconfig.cache
+/Users/cjr11/Documents/dev/cSharp/MakeChange/obj/Debug/net7.0/ref/Starter.dll
